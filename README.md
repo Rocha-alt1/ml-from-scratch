@@ -13,7 +13,8 @@ I created a repository containing core machine learning algorithms implemented e
 **Engineering Focus:** Built to master vectorized data shapes, eliminate execution loop bottlenecks, and accurately track cost convergence down the gradient.
 
 
-# 2. Multi-Feature Linear Regression 
+
+### 2. Multi-Feature Linear Regression 
 
 **Objective:** A pure Python and NumPy implementation of multivariate linear regression built from scratch
 
