@@ -1,6 +1,6 @@
 # Machine Learning From Scratch
 
-I created a repository containing core machine learning algorithms implemented entirely from using standard Python and vectorized NumPy matrix math, completely avoiding high-level framework dependencies like scikit-learn.
+I created a repository containing core machine learning algorithms implemented entirely from using standard Python and vectorized NumPy matrix math, completely avoiding dependencies like scikit-learn or tenserflow.
 
 ## 📁 Repository Modules
 
